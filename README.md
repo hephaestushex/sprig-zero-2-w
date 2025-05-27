@@ -13,6 +13,7 @@ note: the pins on the left are on the 40 pin header on the zero, and the pins on
 
 Power Pins
 - 3.3V - 3V3
+- GND - GND
 
 Audio Pins
 - GPIO21 - GPIO9 (DIN)
